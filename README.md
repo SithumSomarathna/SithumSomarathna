@@ -1,5 +1,5 @@
 👋 Hi, I’m Sithum Somarathna
-- 👀 I’m interested in programming, machine learning, MTG, tennis and netflix
+
 - 🌱 I’m currently studying a Bachelor of Engineering (Automation and Robotics) and a Bachelor of Science (Computer Science) at the University of Western Australia
 - 📫 How to reach me:
     - Email:      sithumthulnith@icloud.com
