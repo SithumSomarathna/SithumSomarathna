@@ -4,7 +4,6 @@
 
 - 📫 How to reach me:
     - Email:      sithumthulnith@icloud.com
-    - Phone:      +61 429 926 887
 
 - ✅ Experience:
     - Python
