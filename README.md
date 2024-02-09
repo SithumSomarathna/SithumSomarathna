@@ -7,7 +7,7 @@
 
 - ✅ Experience:
     - Python
-    - C
+    - C++
     - Java
     - SQL
 
